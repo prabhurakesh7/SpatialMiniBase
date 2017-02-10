@@ -1,0 +1,1 @@
+The project adds features to java minibase to handle spatial information
